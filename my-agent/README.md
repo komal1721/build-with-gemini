@@ -4,6 +4,8 @@ A smart, conversational kitchen assistant built with the Google Agent Developmen
 
 ![Smart Pantry Demo](./demo.gif)
 
+> 🎵 **Demo Video with Lo-Fi Music**: [Watch demo_video.mp4](./demo_video.mp4)
+
 ---
 
 ## 🌟 Overview
