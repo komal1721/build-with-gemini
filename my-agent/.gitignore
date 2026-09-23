@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+video_temp/
+video_tmp/
+.adk/
+lofi_track.wav
